@@ -1,0 +1,12 @@
+BasedOnStyle: google
+ColumnLimit: 80
+SpaceAfterCStyleCast: true
+UseTab: Never
+AllowShortIfStatementsOnASingleLine: Never
+DerivePointerAlignment: false
+IndentWidth: 2
+
+ShortNamespaceLines: 1
+AllowShortLambdasOnASingleLine: All
+InsertBraces: true
+PackConstructorInitializers: NextLine
